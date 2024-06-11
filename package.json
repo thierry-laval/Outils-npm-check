@@ -90,7 +90,7 @@
     "text-table": "^0.2.0",
     "throat": "^2.0.2",
     "update-notifier": "^2.1.0",
-    "xtend": "^4.0.1"
+    "xtend": "^4.0.2"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
